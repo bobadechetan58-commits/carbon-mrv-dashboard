@@ -1,0 +1,24 @@
+{
+  "mcpServers": {
+    "Framelink Figma MCP": {
+      "command": "cmd",
+      "args": ["/c", "npx", "-y", "figma-developer-mcp", "--figma-api-key=YOUR-FIGMA-API-KEY", "--stdio"]
+    }
+  },
+  
+  "github": {
+      "command": "cmd",
+      "args": [
+        "/c",
+        "npx",
+        "-y",
+        "@smithery/cli@latest",
+        "run",
+        "@smithery-ai/github",
+        "--key",
+        "YOUR-GITHUB-API-KEY",
+        "--profile",
+        "YOUR-PROFILE"
+      ]
+    }
+}

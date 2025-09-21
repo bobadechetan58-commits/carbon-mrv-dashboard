@@ -83,7 +83,7 @@ carbon-mrv-dashboard/
 - **Primary Green**: `#10b981` - Main brand color for sustainability theme
 - **Secondary Green**: `#059669` - Accent color for highlights
 - **Dark Green**: `#047857` - Deep green for emphasis
-- **Ocean Blue**:`#003366`- Various shades for text and backgrounds
+- **Neutral Grays**: Various shades for text and backgrounds
 - **Status Colors**: Green (verified), Yellow (pending), Red (rejected/high priority)
 
 ### Typography
